@@ -1,4 +1,4 @@
-# C/C++ template
+# Git Practice
 ===========================
-practice platform
+practice Git all kind of command
 -----------------------------

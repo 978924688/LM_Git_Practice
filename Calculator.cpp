@@ -22,6 +22,7 @@ int main(void)
     delete p;
 
     cout << "Git test !<<endl";
+    cout << "10:14" << endl;
 
     system("pause");
     return 0;

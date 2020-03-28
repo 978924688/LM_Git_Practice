@@ -21,7 +21,7 @@ int main(void)
     cout << p->m_Val_1 << "x" << p->m_Vla_2 << "=" << p->get_Result() << endl;
     delete p;
 
-    cout << "Git test !<<endl";
+    cout << "This is a Git test !<<endl";
 
     system("pause");
     return 0;
